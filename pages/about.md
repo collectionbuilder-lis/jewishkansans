@@ -16,10 +16,8 @@ credits: true
 
 This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+This project explores the community building efforts of Jewish Kansans from the early 1900s to the present day. By identifying employment opportunities, creating community centers, and developing Kosher foodways, Jewish Kansans have fostered relationships of mutual aid for their local communities. Various social organizations have formed out of efforts to create safe places for Jewish cultural expression in rural Kansas.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
 
 Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
 The resulting static site can be hosted on any basic web server.
