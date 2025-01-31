@@ -19,12 +19,10 @@ This project explores the community building efforts of Jewish Kansans from the 
 {% include feature/image.html objectid="js_001" width="75" %}
 
 ## Our Team
-- Dominique Stringer (project lead) 
-- Tyra Kalman (project lead)
 
-{% include feature/card.html header="Dominique Stringer" text="Dominique Stringer is a project lead for the Homemaking project. She is a museum studies student at the University of Kansas." objectid="demo004" width="25" centered=true %}
+{% include feature/card.html header="Dominique Stringer" text="Dominique Stringer is a project lead for the Homemaking project. She is a museum studies student at the University of Kansas." objectid="js_001" width="25" centered=true %}
 
-{% include feature/card.html header="Tyra Kalman" text="Tyra Kalman is a project lead for the Homemaking project." objectid="demo004" width="25" centered=true %}
+{% include feature/card.html header="Tyra Kalman; Dominique Stringer" text="Tyra Kalman is a project lead for the Homemaking project.;Dominique Stringer is a project lead for the Homemaking project. She is a museum studies student at the University of Kansas." objectid="js_001" width="25" centered=true %}
 
 {% include feature/modal.html button="This is a modal using a 'primary' colored button to invite clicking" title="when clicked:" text="A Modal will pop out a box with some more information" color="primary" %}
 
