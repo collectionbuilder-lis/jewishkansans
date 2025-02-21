@@ -12,6 +12,8 @@ credits: true
 
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
+{% include feature/timelinejs.html %}
+
 ## About the Homemaking Project
 
 This project explores the community building efforts of Jewish Kansans from the early 1900s to the present day. By identifying employment opportunities, creating community centers, and developing Kosher foodways, Jewish Kansans have fostered relationships of mutual aid for their local communities. Various social organizations have formed out of efforts to create safe places for Jewish cultural expression in rural Kansas.
