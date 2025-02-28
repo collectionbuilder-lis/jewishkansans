@@ -23,11 +23,11 @@ title: Jewish Kansans Digital Project
 tagline: A Digital Community Archive
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "The Homemaking project explores the diverse stories of Jewish Kansan immigration."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: jewish history; kansas; immigration
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Dominique Stringer
 
 ##########
 # COLLECTION SETTINGS

@@ -35,7 +35,7 @@ This project explores the community building efforts of Jewish Kansans from the 
      <img src="..." class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Tyra Kalman</h5>
-        <p class="card-text">Tyra Kalman is a project lead for the Homemaking project. She is a museum studies student at the University of Kansas.</p>
+        <p class="card-text">Tyra Kalman is a project lead for the Homemaking project. </p>
         <a href="#" class="btn btn-primary">Go somewhere</a>
       </div>
     </div>
