@@ -1,10 +1,12 @@
 display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
-Subjects,/subjects.html,
-Locations,/locations.html,
 Map,/map.html,
 Timeline,/timeline.html,
-Data,/data.html,
+Stories,,
+HBLS,/hbls.html,Stories
+Visualizations,,
+Subjects,/subjects.html,Visualizations
+Locations,/locations.html,Visualizations
+Data,/data.html,Visualizations
 About,/about.html,
-HBLS,/hbls.html,
