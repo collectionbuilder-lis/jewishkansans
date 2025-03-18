@@ -8,14 +8,12 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
-
 {% include feature/nav-menu.html sections="About the Homemaking Project;Our Team" %}
 
 ## About the Homemaking Project
 This project explores the community building efforts of Jewish Kansans from the early 1900s to the present day. By identifying employment opportunities, creating community centers, and developing Kosher foodways, Jewish Kansans have fostered relationships of mutual aid for their local communities. Various social organizations have formed out of efforts to create safe places for Jewish cultural expression in rural Kansas.
 
-{% include feature/image.html objectid="js_001" width="75" %}
+{% include feature/image.html objectid="js_001" width="50" %}
 
 ## Our Team
 
