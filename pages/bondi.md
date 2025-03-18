@@ -3,7 +3,7 @@ title: August Bondi
 layout: about
 permalink: /bondi.html
 ---
-## August Bondi
+# August Bondi
 
 August Bondi is the most well-known figure in Kansas Jewish history for participating in the
 Battles of Black Jack and Osawatomie alongside abolitionist John Brown in 1856. The year was
@@ -17,4 +17,5 @@ political atmosphere in Bleeding Kansas, justifying the Massacre as a necessary 
 narratives to reconstruct Brown’s actions and frame of mind. Scholars of the 1848 uprising,
 Jewish history in the Civil War also draw from Bondi’s writings. Bondi features prominently in
 Jewish American history and the history of Kansas.
+
 

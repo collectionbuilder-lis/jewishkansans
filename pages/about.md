@@ -1,6 +1,6 @@
 ---
 title: About
-layout: page
+layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
@@ -8,14 +8,14 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html sections="About the Homemaking Project;Our Team" %}
-
-## About the Homemaking Project
+About the Homemaking Project
+===========================
 This project explores the community building efforts of Jewish Kansans from the early 1900s to the present day. By identifying employment opportunities, creating community centers, and developing Kosher foodways, Jewish Kansans have fostered relationships of mutual aid for their local communities. Various social organizations have formed out of efforts to create safe places for Jewish cultural expression in rural Kansas.
 
 {% include feature/image.html objectid="js_001" width="50" %}
 
-## Our Team
+Our Team
+==================
 
 <div class="row">
   <div class="col-sm-6">
@@ -39,5 +39,8 @@ This project explores the community building efforts of Jewish Kansans from the 
     </div>
   </div>
 </div>
-{% include feature/modal.html button="Contribute to the project" title="Community Contributions" text="If would like to contribute to the Homemaking project, please reach out to ..." color="primary" %}
-{% include feature/button.html text="Button Link to Somewhere" link="https://collectionbuilder.github.io/" color="success" %}
+
+Takedown Statement 
+==================
+{% include feature/modal.html button="Contribute to the project" title="Contributions" text="If would like to contribute to the Homemaking project, please reach out to [HomemakingProject@ku.edu](HomemakingProject@ku.edu)" color="success" %}
+
