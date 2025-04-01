@@ -29,7 +29,7 @@ credits: true
   </div>
 </div>
 
-{% include feature/modal.html button="Contribute to the project" title="Contributions" text="If would like to contribute to the Homemaking project, please reach out to [HomemakingProject@ku.edu](HomemakingProject@ku.edu)" color="success" %}
+{% include feature/modal.html button="Contribute to the project" title="Contributions" text="If would like to contribute to the Homemaking project, please reach out to [HomemakingProject@ku.edu](HomemakingProject@ku.edu)" color="primary" %}
 
 <div class="row">
   <div class="col-md-12">
