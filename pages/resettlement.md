@@ -3,6 +3,16 @@ title: Resettlement Projects
 layout: about
 permalink: /resettlementprojects.html
 ---
+In response to the massive immigration waves between 1880 and 1920, Jewish charitable
+organizations mostly on the east coast, cooperated to disperse Eastern European Jews across
+the interior United States. European and U.S. Jewish organizations encouraged and sponsored
+Jewish resettlement from larger cities to rural areas, where immigrants would be more likely to
+become Americanized by learning English and U.S. culture and customs. Emigrant societies
+educated them about places in the interior and provided some financial or material support for
+transportation. Hoping to alleviate the problems of Eastern European immigrants and to help
+destitute Jews in Russia emigrate to the United States, an early one of several projects was to
+establish Jewish agricultural colonies in the country’s interior
+
 # Agricultural Colonies 
 ### 1880s
 Jewish agricultural colonies are a third of the well-known and researched aspects of Kansas

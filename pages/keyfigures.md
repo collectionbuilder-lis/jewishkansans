@@ -1,7 +1,7 @@
 ---
-title: August Bondi
+title: Key Figures
 layout: about
-permalink: /bondi.html
+permalink: /keyfigures.html
 ---
 # August Bondi
 
