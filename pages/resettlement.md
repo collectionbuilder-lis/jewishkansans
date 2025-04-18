@@ -11,7 +11,7 @@ become Americanized by learning English and U.S. culture and customs. Emigrant s
 educated them about places in the interior and provided some financial or material support for
 transportation. Hoping to alleviate the problems of Eastern European immigrants and to help
 destitute Jews in Russia emigrate to the United States, an early one of several projects was to
-establish Jewish agricultural colonies in the country’s interior
+establish Jewish agricultural colonies in the country’s interior.
 
 # Agricultural Colonies 
 ### 1880s
