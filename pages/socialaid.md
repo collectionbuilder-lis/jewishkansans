@@ -1,12 +1,9 @@
 ---
 title: Women-Led Social Aid Organizations
-layout: about
+layout: story
 permalink: /socialaid.html 
 ---
-# Women-Led Social Aid Organizations
 From the members of the Hebrew Ladies Benevolent Society and the local chapter of the National Council for Jewish Women, to the current participants in the Lawrence Jewish Community Congregation, local Jewish women have played an integral role in creating supportive and welcoming Jewish communities. The often unseen labor of these women has been essential to creating Jewish community in the isolated setting of the Midwest. 
-
-{% include feature/nav-menu.html sections="Hebrew Ladies Benevolent Society;National Council for Jewish Women" %}
 
 ## Hebrew Ladies Benevolent Society
 The Hebrew Ladies Benevolent Society was a social aid organization based out of Topeka, Kansas. Founded in 1885 by a group of German-speaking women, the Hebrew Ladies Benevolent Society (HBLS) admitted new Eastern European women moving to Topeka after the turn of the century. Through the 19th and into the 20th century, the society provided community charitable services. Participation faded at the end of the 1930s.
