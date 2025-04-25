@@ -14,4 +14,7 @@ What spurred the organization of the LJCC in the 1940s was the increase in Jewis
 
 The Lawrence Jewish Community Congregation built and occupied their current building in 1962,  Soon after, in 1965, they began the Blintz Brunch, which has become a Lawrence institution. Now held in November, on the Sunday before election day, it serves as the major community fundraiser for the congregation, as a way of engaging the larger community and presenting aspects of Jewish life, especially blintzes and bagels and lox spread as well as selling challah, rye breads, kosher salamis, babkas, and baked goods made by congregation members. In addition, it brings together nearly all Jews in town, not just congregants, who work preparing for and on the day of the blintz brunch. 
 
+## Connecting through the Written Word
+The monthly newsletter (printed and internet) is, for the LJCC and most Jewish congregations and social institutions the primary tool of organizational communications. Presidents write a monthly column, the newsletter records past activities and future events, reports on member activities as well as individual and institutional news.
+
 The LJCC attempts to serve as an umbrella community for all Jews. For services it has an array of sets of siddurim (prayer books) that could allow nearly any minhag. The unaffiliated congregation has sets of conservative, reconstruction and multiple reform prayer books which attests to its nondenominational identity.
