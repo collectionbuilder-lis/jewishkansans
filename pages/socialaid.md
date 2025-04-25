@@ -16,7 +16,6 @@ The Hebrew Ladies Benevolent Society was a social aid organization based out of 
 The HLBS played a major role in tzedakah (the Hebrew word for justice and charity), performing social services and charitable giving. During the depression they assisted unhoused Jews passing through Topeka. They would provide meals, a place to sleep for a night, and a bus or train ticket to a major city—Kansas City or Denver—which had greater resources to provide assistance. 
 
 {% include feature/image-gallery.html objectid="js_001;js_005" %} {% include feature/image-gallery.html objectid="js_003;js_004" %}
-{% include essay/new-section.html%}
 
 The women arranged charge accounts with restaurants, hotels and transportation lines. The slips here represent meals provided; the restaurants billed the HLBS for payment. Most Jewish Topekan women worked for wages downtown, often in their family businesses, so they were physically present to help. In most towns Jewish male merchants provided these daily services.
 

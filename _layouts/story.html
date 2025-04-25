@@ -1,0 +1,11 @@
+---
+# default "Story" page layout
+layout: default
+---
+<div class="container my-4">
+    <h1 class="display-8 essay-title">{{ page.title }} {% if page.byline %}<br><span class="fs-5 ms-5">{{ page.byline }}</span>{% endif %}</h1>
+
+    <div class="container my-4 about-contents">
+        {{ content }}
+    </div>
+</div>
