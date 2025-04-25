@@ -22,7 +22,7 @@ credits: true
   <h2>Our Team</h2> 
   </div>
   <div class="col-md-6">
-    {% include feature/card.html text="Dominique Stringer is a project lead for the Homemaking project. She is a museum studies student at the University of Kansas." header="Dominique Stringer" objectid="demo_004" heading_level="h3" %}
+    {% include feature/card.html text="Dominique Stringer is a project lead for the Homemaking project. She holds a MA in Museum Studies from the University of Kansas and a BA in Anthropology from Luther College." header="Dominique Stringer - Founder" objectid="demo_004" heading_level="h3" %}
   </div>
   <div class="col-md-6">  
     {% include feature/card.html text="Tyra Kalman is a project lead for the Homemaking project." header="Tyra Kalman" objectid="demo_004" heading_level="h3" %}

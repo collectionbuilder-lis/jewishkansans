@@ -2,6 +2,7 @@
 title: Women-Led Social Aid Organizations
 layout: story
 permalink: /socialaid.html 
+byline: by David Katzman and Dominique Stringer
 ---
 From the members of the Hebrew Ladies Benevolent Society and the local chapter of the National Council for Jewish Women, to the current participants in the Lawrence Jewish Community Congregation, local Jewish women have played an integral role in creating supportive and welcoming Jewish communities. The often unseen labor of these women has been essential to creating Jewish community in the isolated setting of the Midwest. 
 
