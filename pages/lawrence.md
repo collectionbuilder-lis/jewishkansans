@@ -1,7 +1,7 @@
 ---
 title: The Lawrence Jewish Community
 layout: story
-permalink: /lawrence.html
+permalink: /stories/lawrence.html
 byline: by David Katzman
 ---
 ## Early Jewish Lawrence 

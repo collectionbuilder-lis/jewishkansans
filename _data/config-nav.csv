@@ -4,11 +4,11 @@ Browse,/browse.html,
 Map,/map.html,
 Timeline,/timeline.html,
 Stories,,
-Cemeteries,/cemeteries.html,Stories
-Foodways,/foodways.html,Stories
+Cemeteries,/stories/cemeteries.html,Stories
+Foodways,/stories/foodways.html,Stories
 Women-Led Social Aid Organizations,/stories/socialaid.html,Stories
-Lawrence,/lawrence.html,Stories
-Industrial Removal Office,/industrialremovaloffice.html,Stories
+Lawrence,/stories/lawrence.html,Stories
+Industrial Removal Office,/stories/industrialremovaloffice.html,Stories
 Visualizations,,
 Subjects,/subjects.html,Visualizations
 Locations,/locations.html,Visualizations

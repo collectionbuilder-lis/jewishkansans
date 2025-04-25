@@ -1,7 +1,7 @@
 ---
 title: The Evolution of Kosher Foodways in Kansas
 layout: story
-permalink: /foodways.html
+permalink: /stories/foodways.html
 ---
 <p>
   Because of the relative isolation of Kansas (and the midwest more generally), accessing kosher food sometimes presented a challenge to Jewish Kansans. This was particularly true in the smallest and most rural communities. 

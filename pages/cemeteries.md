@@ -1,7 +1,7 @@
 ---
 title: Jewish Cemeteries in Kansas
 layout: story
-permalink: /cemeteries.html
+permalink: /stories/cemeteries.html
 ---
 ### Beersheba Cemetery 
 The earliest known Jewish cemetery in Kansas was located in Beersheba, Kansas. 
