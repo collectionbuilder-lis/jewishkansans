@@ -1,13 +1,11 @@
 ---
-title: Foodways
-layout: about
+title: The Evolution of Kosher Foodways in Kansas
+layout: story
 permalink: /foodways.html
 ---
-<h1>The Evolution of Kosher Foodways in Kansas</h1>
 <p>
   Because of the relative isolation of Kansas (and the midwest more generally), accessing kosher food sometimes presented a challenge to Jewish Kansans. This was particularly true in the smallest and most rural communities. 
 </p>
-{% include feature/nav-menu.html sections="Cookbooks;Grocers" %}
 
 ## Cookbooks 
   <p>Daily practices, such as preparing food, can hold significance as pathways to maintaining personal and cultural identity. Recipes are one way that older generations pass stories and traditions on to their descendants.</p>
