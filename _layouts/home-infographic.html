@@ -6,15 +6,21 @@ layout: page
 
   <div class="col-md-8">
     {% include feature/image.html objectid="js_037"%}
-    
   </div>
+
   <div class="col-md-4">  
-    {% include feature/card.html text="Read more about the Jewish Community of Kansas on our [stories page](/jewishkansans/stories/)." %}
+    <div class="row">
+            <div class="card md-4 text-right">
+                <div class="card-body">
+                  <h4 class="card-title">Stories</h4>
+                    <p>Read more about the Jewish Community of Kansas on our Stories Page</p>
+                      <div class="mt-2">
+                        {% include feature/button.html text="See the stories" link="stories" %}
+                     </div>
+                </div>
+            </div>
 
     {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary"%}
-
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" %}
-
   </div>
 
 </div>
