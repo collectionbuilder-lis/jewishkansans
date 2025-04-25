@@ -2,3 +2,85 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+
+
+/* Fading effects */
+
+
+/* Initially, steps are invisible */
+.step {
+    opacity: 0;
+    transition: opacity 0.5s;
+}
+
+.visible-step {
+    opacity: 1 !important;
+}
+
+#step0{
+    opacity: 1 !important;
+}
+
+.step.fade-in {
+    opacity: 1;
+    transition: opacity 0.75s ease-in;
+}
+
+
+
+.step.fade-out {
+    opacity: 0;
+    transition: opacity 0.75s ease-out;
+}
+/* To make sure the first step starts visible */
+#scrolly article .step:first-child {
+    opacity: 1;
+}
+
+.step{
+    margin-top:20px;
+}
+
+/* Print styles for steps */
+@media print {
+    .step {
+        opacity: 1 !important;
+        visibility: visible !important;
+        display: block !important;
+        break-inside: avoid;
+    }
+}
+
+.essay-main {
+    max-width: 633px;
+    width: 60%;
+    margin: 0 17.5% 0;
+    @media (max-width: 768px) {
+        width: 90%;
+        margin: 0 2%;
+    }
+}
+
+/*Marginal Notes on Desktop*/
+aside, .aside {
+    display: inline;
+    float: right;
+    position: relative;
+    width: 20vw;
+    margin-right: -26vw;
+    font-size: 14px;
+    font-style: italic;
+
+}
+
+/*Marginal Notes on mobile*/
+    @media (max-width: 768px) {
+    aside, .aside {
+    display: block;
+    float: none;
+    margin: 5% 10%;
+    width: 80%;
+    font-size: 15px;
+    font-style: italic;
+    }
+}
