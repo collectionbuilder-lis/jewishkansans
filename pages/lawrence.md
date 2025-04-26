@@ -20,11 +20,14 @@ Though Jews have been a present in Lawrence since its settlement in the 1850s, n
 
 
 ## Forming a Formal Congregation
+
+{% include feature/aside.html objectid="js_036" %}
+
 What spurred the organization of the LJCC in the 1940s was the increase in Jewish university students and the hiring of Jewish faculty, and the growing number of Jewish children. A few families started Sunday school classes, which led to the organization of the LJCC and acquisition of a house near campus to host Hebrew and Sunday school classes, social activities, occasional services and the newly formed Hillel chapter. Christian groups in town contributed to the fundraising for the house. When the LJCC sold that Tennessee Street house, erecting a modest building at its current site, a majority of contributors came from the university rather than the town. 
 
-{% include feature/image.html objectid="js_016" width="50" %}
-
 The Lawrence Jewish Community Congregation built and occupied their current building in 1962,  Soon after, in 1965, they began the Blintz Brunch, which has become a Lawrence institution. Now held in November, on the Sunday before election day, it serves as the major community fundraiser for the congregation, as a way of engaging the larger community and presenting aspects of Jewish life, especially blintzes and bagels and lox spread as well as selling challah, rye breads, kosher salamis, babkas, and baked goods made by congregation members. In addition, it brings together nearly all Jews in town, not just congregants, who work preparing for and on the day of the blintz brunch. 
+
+{% include feature/image.html objectid="js_016" width="100" %}
 
 {% include essay/new-section.html %} 
 
