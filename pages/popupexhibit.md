@@ -6,3 +6,5 @@ custom-foot: essay/essay-scroll-js.html
 ---
 <div class="row my-3" >
 <div class="" markdown="1">
+
+{% include feature/image.html objectid="install_001" %}
