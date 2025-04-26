@@ -12,12 +12,12 @@ custom-foot: essay/essay-scroll-js.html
 
 {% include essay/new-section.html visible=true %} 
 
+{% include essay/new-section.html %} 
 
 ## Early Jewish Lawrence 
 Though Jews have been a present in Lawrence since its settlement in the 1850s, no formal congregation existed until after World War II.  The community incorporated in 1869 to inherit the Eudora Jewish cemetery—Bene Israel—but the German-speaking merchant community failed to act on that.  In the last two decades of the 19th century Jewish residents organized a short-lived Sunday school, a number of social organizations, and a section (chapter) of the National Council of Jewish Women. In the 1930s a group of women organized the Lawrence Community Women which, until its demise in this century, was the longest serving Jewish institution in Lawrence.
 
 {% include essay/new-section.html %} 
-
 
 ## Forming a Formal Congregation
 
