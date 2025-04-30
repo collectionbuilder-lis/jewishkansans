@@ -6,13 +6,15 @@ custom-foot: essay/essay-scroll-js.html
 ---
 <div class="row my-3" >
 <div class="" markdown="1">
-
+ {% include feature/image.html objectid="js_028" width="100" %}
 {% include essay/new-section.html visible=true %} 
 
-## The Evolution of Kosher Foodways in Kansas
+# The Evolution of Kosher Foodways in Kansas
 Because of the relative isolation of Kansas (and the midwest more generally), accessing kosher food sometimes presented a challenge to Jewish Kansans. This was particularly true in the smallest and most rural communities. 
 
-## Cookbooks 
+{% include essay/new-section.html %} 
+
+# Cookbooks 
 Daily practices, such as preparing food, can hold significance as pathways to maintaining personal and cultural identity. Recipes are one way that older generations pass stories and traditions on to their descendants.
 
 ### Joy of Jewish Cooking Cookbook
@@ -23,7 +25,7 @@ In 1969, 19 Jewish women prepared a local cookbook and printed it at the World C
 
 {% include essay/new-section.html %} 
 
-## Grocers
+# Grocers
 
 {% include feature/image-gallery.html objectid="js_005;js_041" %} 
 
