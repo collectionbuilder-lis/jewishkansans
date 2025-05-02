@@ -7,7 +7,9 @@ custom-foot: essay/essay-scroll-js.html
 ---
 <div class="row my-3" >
 <div class="" markdown="1">
- {% include feature/image.html objectid="js_001" width="100" %}
+
+# Women-Led Social Aid Organizations
+ {% include feature/image.html objectid="js_015" width="100" %}
 
 {% include essay/new-section.html visible=true %} 
 # Women-Led Social Aid Organizations 
