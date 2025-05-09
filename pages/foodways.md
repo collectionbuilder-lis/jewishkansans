@@ -21,7 +21,9 @@ Daily practices, such as preparing food, can hold significance as pathways to ma
 
 {% include feature/aside.html objectid="js_006" %}
 
-In 1969, 19 Jewish women prepared a local cookbook and printed it at the World Company Printers in Lawrence. In their preface, they described the joy felt in sharing these recipes, as well as the difficulties associated with writing down specific directions. Often, their recipes were based on oral lessons, where a mother or grandmother would teach her daughters through verbal direction and practice. Many of the measurements were originally based on gut feeling, rather than exact measurements.
+In 1969, 19 Jewish women prepared a local cookbook and printed it at the World Company Printers in Lawrence. In their preface, they described the joy felt in sharing these recipes, as well as the difficulties associated with writing down specific directions. Often, their recipes were based on oral traditions, where a mother or grandmother would teach her daughters through verbal direction and practice. Many of the measurements were originally based on experience, rather than exact measurements.
+
+“Joy of Jewish Cooking” title is a play on words: The Joy of Cooking,” first published in 1931 and still in print, was and is one of the most popular American cookbooks.
 
 {% include essay/new-section.html %} 
 

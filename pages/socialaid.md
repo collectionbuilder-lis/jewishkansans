@@ -22,9 +22,9 @@ From the members of the Hebrew Ladies Benevolent Society and the local chapter o
 
 ## Hebrew Ladies Benevolent Society
 
-The Hebrew Ladies Benevolent Society was a social aid organization based out of Topeka, Kansas. Founded in 1885 by a group of German-speaking women, the Hebrew Ladies Benevolent Society (HBLS) admitted new Eastern European women moving to Topeka after the turn of the century. Through the 19th and into the 20th century, the society provided community charitable services. Participation faded at the end of the 1930s.
+The Hebrew Ladies Benevolent Society was a social aid organization in Topeka, Kansas. Founded in 1885 by a group of German-speaking women, the Hebrew Ladies Benevolent Society (HBLS) admitted new Eastern European women moving to Topeka after the turn of the century. Through the 19th and into the 20th century, the society provided community charitable services. Participation faded at the end of the 1930s.
 
-The HLBS played a major role in tzedakah (the Hebrew word for justice and charity), performing social services and charitable giving. During the depression they assisted unhoused Jews passing through Topeka. They would provide meals, a place to sleep for a night, and a bus or train ticket to a major city—Kansas City or Denver—which had greater resources to provide assistance. 
+The HLBS played a major role in tzedakah (the Hebrew word for justice and charity), performing social services and charitable giving. During the depression they assisted transient Jews passing through Topeka. They would provide meals, a place to sleep for a night, and a bus or train ticket to a major city—Kansas City or Denver—which had greater resources to provide assistance. 
 
  {% include feature/aside.html objectid="js_018" %}
 

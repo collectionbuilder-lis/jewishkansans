@@ -9,8 +9,8 @@ custom-foot: essay/essay-scroll-js.html
 
 {% include essay/new-section.html visible=true %} 
 
-## Beersheba Cemetery 
-The earliest known Jewish cemetery in Kansas was located in Beersheba, Kansas. 
+## Mt. Zion Cemetery, Leavenworth, Kansas
+In 1858 Jonas Wollman, Joseph Ringolsky and Simon Abeles founded the Society of the Sons of Truth as a burial society and established Mt. Zion as the first Jewish cemetery in Kansas. Leavenworth was the first organized Jewish community and remained the largest in population throughout the nineteenth century. While Leavenworth’s Jewish community has faded, Mt. Zion, with more than 700 graves, remains actively used by descendant families living elsewhere.
 
 {% include essay/new-section.html %} 
 
