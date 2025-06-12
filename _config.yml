@@ -8,7 +8,7 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://collectionbuilder-lis.github.io
+url: https://home-making.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /jewishkansans
 # location of code, the full url to your github repository
@@ -18,12 +18,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Homemaking Project
+title: Home-Making Project
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A Jewish Kansan Digital Community Archive
+tagline: A Jewish Kansan Storytelling Project
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The Homemaking Project explores the diverse stories of Jewish Kansan immigration."
+description: "The Home-Making Project explores the diverse stories of Jewish Kansan immigration."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: jewish history; kansas; immigration
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
@@ -50,7 +50,7 @@ metadata: jewishkansansdemodata
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "The Homemaking Project"
+organization-name: "The Home-Making Project"
 organization-link: #add later
 organization-logo-banner: #add later
 organization-logo-nav: #add later from reclaim hosting
