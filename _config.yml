@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://home-making.github.io/
+url: https://www.jewishkansans.org
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /jewishkansans
+baseurl: # add later if necessary
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: https://github.com/home-making/jewishkansans
 
 ##########
 # SITE SETTINGS
