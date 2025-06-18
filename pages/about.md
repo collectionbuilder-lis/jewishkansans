@@ -22,14 +22,14 @@ credits: true
   <h2>Our Team</h2> 
   </div>
   <div class="col-md-6">
-    {% include feature/card.html text="Dominique Stringer is a project lead for the Homemaking project. She is completing an MA in Museum Studies from the University of Kansas and holds a BA in Anthropology from Luther College." header="Dominique Stringer - Founder" objectid="demo_004" heading_level="h3" %}
+    {% include feature/card.html text="Dominique Stringer is a project lead for the Homemaking project. She is pursuing a PhD in History at Indiana University. She holds an MA in Museum Studies from the University of Kansas and a BA in Anthropology from Luther College." header="Dominique Stringer - Founder" objectid="demo_004" heading_level="h3" %}
   </div>
   <div class="col-md-6">  
-    {% include feature/card.html text="Tyra Kalman is a project lead for the Homemaking project." header="Tyra Kalman" objectid="demo_004" heading_level="h3" %}
+    {% include feature/card.html text="Tyra Kalman is a project lead for the Homemaking project." header="Tyra Kalman - Founder" objectid="demo_004" heading_level="h3" %}
   </div>
 </div>
 
-{% include feature/modal.html button="Contribute to the project" title="Contributions" text="If would like to contribute to the Homemaking project, please reach out to [HomemakingProject@ku.edu](HomemakingProject@ku.edu)" color="primary" %}
+{% include feature/modal.html button="Contribute to the project" title="Contributions" text="If would like to contribute to the Homemaking project, please reach out to [jewishkansans@gmail.com](jewishkansans@gmail.com)" color="primary" %}
 
 <div class="row">
   <div class="col-md-12">
